@@ -1,93 +1,93 @@
-CODE BOOK
+#CODE BOOK
 
-Description of variables
+###Description of variables
 
 
-volunteers(int): 30 volunteers that carried out the experiment - 
+*volunteers(int): 30 volunteers that carried out the experiment - 
 
-activity(chr): the six activities - WALKING, WALKING_UPSTAIRS, SITTING,...
+*activity(chr): the six activities - WALKING, WALKING_UPSTAIRS, SITTING,...
 
-tBodyAcc-mean()-X(int): Time Body Accelerometer Signal mean value in x direction
+*tBodyAcc-mean()-X(int): Time Body Accelerometer Signal mean value in x direction
 
-tBodyAcc-mean()-Y(int): Time Body Accelerometer Signal mean value in y direction
+*tBodyAcc-mean()-Y(int): Time Body Accelerometer Signal mean value in y direction
 
-tBodyAcc-mean()-Z(int): Time Body Accelerometer Signal mean value in z direction
+*tBodyAcc-mean()-Z(int): Time Body Accelerometer Signal mean value in z direction
 
-tBodyAcc-std()-X(int): Time Body Accelerometer Signal standard deviation in X direction
+*tBodyAcc-std()-X(int): Time Body Accelerometer Signal standard deviation in X direction
 
-tBodyAcc-std()-Y(int): Time Body Accelerometer Signal standard deviation in y direction
+*tBodyAcc-std()-Y(int): Time Body Accelerometer Signal standard deviation in y direction
 
-tBodyAcc-std()-Z(int): Time Body Accelerometer Signal standard deviation in z direction
+*tBodyAcc-std()-Z(int): Time Body Accelerometer Signal standard deviation in z direction
 
-tGravityAcc-mean()-X(int): Time Gravity Accelerometer Signal mean value in x direction
+*tGravityAcc-mean()-X(int): Time Gravity Accelerometer Signal mean value in x direction
 
-tGravityAcc-mean()-Y(int): Time Gravity Accelerometer Signal mean value in y direction
+*tGravityAcc-mean()-Y(int): Time Gravity Accelerometer Signal mean value in y direction
 
-tGravityAcc-mean()-Z(int): Time Gravity Accelerometer Signal mean value in z direction
+*tGravityAcc-mean()-Z(int): Time Gravity Accelerometer Signal mean value in z direction
 
-tGravityAcc-std()-X(int): Time Gravity Accelerometer Signal standard deviation value in x direction
+*tGravityAcc-std()-X(int): Time Gravity Accelerometer Signal standard deviation value in x direction
 
-tGravityAcc-std()-Y(int): Time Gravity Accelerometer Signal standard deviation value in y direction
+*tGravityAcc-std()-Y(int): Time Gravity Accelerometer Signal standard deviation value in y direction
 
-tGravityAcc-std()-Z(int): Time Gravity Accelerometer Signal standard deviation value in z direction
+*tGravityAcc-std()-Z(int): Time Gravity Accelerometer Signal standard deviation value in z direction
 
-tBodyAccJerk-mean()-X(int): Time Body Accelerometer Jerk Signal mean value in x direction
+*tBodyAccJerk-mean()-X(int): Time Body Accelerometer Jerk Signal mean value in x direction
 
-tBodyAccJerk-mean()-Y(int): Time Body Accelerometer Jerk Signal mean value in y direction
+*tBodyAccJerk-mean()-Y(int): Time Body Accelerometer Jerk Signal mean value in y direction
 
-tBodyAccJerk-mean()-Z(int): Time Body Accelerometer Jerk Signal mean value in z direction
+*tBodyAccJerk-mean()-Z(int): Time Body Accelerometer Jerk Signal mean value in z direction
 
-tBodyAccJerk-std()-X(int): Time Body Accelerometer Jerk Signal standard deviation value in x direction
+*tBodyAccJerk-std()-X(int): Time Body Accelerometer Jerk Signal standard deviation value in x direction
 
-tBodyAccJerk-std()-Y(int): Time Body Accelerometer Jerk Signal standard deviation value in y direction
+*tBodyAccJerk-std()-Y(int): Time Body Accelerometer Jerk Signal standard deviation value in y direction
 
-tBodyAccJerk-std()-Z(int): Time Body Accelerometer Jerk Signal standard deviation value in z direction
+*tBodyAccJerk-std()-Z(int): Time Body Accelerometer Jerk Signal standard deviation value in z direction
 
-tBodyGyro-mean()-X(int): Time Body Gyroscope Signal mean value in x direction
+*tBodyGyro-mean()-X(int): Time Body Gyroscope Signal mean value in x direction
 
-tBodyGyro-mean()-Y(int): Time Body Gyroscope Signal mean value in y direction
+*tBodyGyro-mean()-Y(int): Time Body Gyroscope Signal mean value in y direction
 
-tBodyGyro-mean()-Z(int): Time Body Gyroscope Signal mean value in z direction
+*tBodyGyro-mean()-Z(int): Time Body Gyroscope Signal mean value in z direction
 
-tBodyGyro-std()-X(int): Time Body Gyroscope Signal standard deviation value in x direction
+*tBodyGyro-std()-X(int): Time Body Gyroscope Signal standard deviation value in x direction
 
-tBodyGyro-std()-Y(int): Time Body Gyroscope Signal standard deviation value in y direction
+*tBodyGyro-std()-Y(int): Time Body Gyroscope Signal standard deviation value in y direction
 
-tBodyGyro-std()-Z(int): Time Body Gyroscope Signal standard deviation value in z direction
+*tBodyGyro-std()-Z(int): Time Body Gyroscope Signal standard deviation value in z direction
 
-tBodyGyroJerk-mean()-X(int): Time Body Gyroscope Jerk Signal mean value in x direction
+*tBodyGyroJerk-mean()-X(int): Time Body Gyroscope Jerk Signal mean value in x direction
 
-tBodyGyroJerk-mean()-Y(int): Time Body Gyroscope Jerk Signal mean value in y direction
+*tBodyGyroJerk-mean()-Y(int): Time Body Gyroscope Jerk Signal mean value in y direction
 
-tBodyGyroJerk-mean()-Z(int): Time Body Gyroscope Jerk Signal mean value in z direction
+*tBodyGyroJerk-mean()-Z(int): Time Body Gyroscope Jerk Signal mean value in z direction
 
-tBodyGyroJerk-std()-X(int):Time Body Gyroscope Jerk Signal standard deviation in x direction
+*tBodyGyroJerk-std()-X(int):Time Body Gyroscope Jerk Signal standard deviation in x direction
 
-tBodyGyroJerk-std()-Y(int):Time Body Gyroscope Jerk Signal standard deviation in y direction
+*tBodyGyroJerk-std()-Y(int):Time Body Gyroscope Jerk Signal standard deviation in y direction
 
-tBodyGyroJerk-std()-Z(int):Time Body Gyroscope Jerk Signal standard deviation in z direction
+*tBodyGyroJerk-std()-Z(int):Time Body Gyroscope Jerk Signal standard deviation in z direction
 
-tBodyAccMag-mean()(int): Time Body Accelerometer Euclidean Norm mean value
+*tBodyAccMag-mean()(int): Time Body Accelerometer Euclidean Norm mean value
 
-tBodyAccMag-std()(int): Time Body Accelerometer Euclidean Norm standard deviation value
+*tBodyAccMag-std()(int): Time Body Accelerometer Euclidean Norm standard deviation value
 
-tGravityAccMag-mean()(int): Time Gravity Accelerometer Euclidean Norm mean value
+*tGravityAccMag-mean()(int): Time Gravity Accelerometer Euclidean Norm mean value
 
-tGravityAccMag-std()(int): Time Gravity Accelerometer Euclidean Norm standard deviation value
+*tGravityAccMag-std()(int): Time Gravity Accelerometer Euclidean Norm standard deviation value
 
-tBodyAccJerkMag-mean()(int): Time Body Accelerometer Jerk Euclidean Norm mean value
+*tBodyAccJerkMag-mean()(int): Time Body Accelerometer Jerk Euclidean Norm mean value
 
-tBodyAccJerkMag-std()(int): Time Body Accelerometer Jerk Euclidean Norm standard deviation value
+*tBodyAccJerkMag-std()(int): Time Body Accelerometer Jerk Euclidean Norm standard deviation value
 
-tBodyGyroMag-mean()(int): Time Body Gyroscope Euclidean Norm mean value
+*tBodyGyroMag-mean()(int): Time Body Gyroscope Euclidean Norm mean value
 
-tBodyGyroMag-std()(int): Time Body Gyroscope Euclidean Norm standard deviation value
+*tBodyGyroMag-std()(int): Time Body Gyroscope Euclidean Norm standard deviation value
 
-tBodyGyroJerkMag-mean()(int): Time Body Gyroscope Jerk Euclidean Norm mean value
+*tBodyGyroJerkMag-mean()(int): Time Body Gyroscope Jerk Euclidean Norm mean value
 
-tBodyGyroJerkMag-std()(int): Time Body Gyroscope Jerk Euclidean Norm standard deviation value
+*tBodyGyroJerkMag-std()(int): Time Body Gyroscope Jerk Euclidean Norm standard deviation value
 
-fBodyAcc-mean()-X(int):Frequency Body Accelerometer Signal mean value in x direction
+*fBodyAcc-mean()-X(int):Frequency Body Accelerometer Signal mean value in x direction
 
 fBodyAcc-mean()-Y(int):Frequency Body Accelerometer Signal mean value in y direction
 
